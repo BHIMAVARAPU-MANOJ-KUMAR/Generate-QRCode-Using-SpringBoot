@@ -1,4 +1,4 @@
-package com.qrcodeexample.qrcodespringboot;
+package com.qrcodeexample;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
